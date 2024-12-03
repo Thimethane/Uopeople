@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jump Links Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .content {
+            height: 2000px; /* Adding height to make the page scrollable */
+        }
+        .link {
+            display: block;
+            text-align: center;
+            margin: 20px 0;
+            font-size: 1.2em;
+        }
+        .jump-link {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .jump-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Link at the top to jump to the bottom -->
+    <div class="link">
+        <a href="#bottom" class="jump-link">Jump to Bottom</a>
+    </div>
+
+    <!-- Main content with a lot of space to scroll -->
+    <div class="content">
+        <h1>Welcome to the Jump Links Page</h1>
+        <p>Scroll down to see the bottom link!</p>
+    </div>
+
+    <!-- Link at the bottom to jump to the top -->
+    <div class="link" id="bottom">
+        <a href="#top" class="jump-link">Jump to Top</a>
+    </div>
+
+</body>
+</html>
