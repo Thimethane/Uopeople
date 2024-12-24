@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises number="1">
+    <date>2024-12-24</date>
+    <item>Write an XML document describing the exercises.</item>
+    <item>Write an XML document describing a person with suitable nesting.</item>
+</exercises>

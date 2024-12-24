@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>John Smith</name>
+    <occupation>Graphic Designer</occupation>
+    <address>
+        <street>456 Elm Street</street>
+        <city>Metropolis</city>
+        <state>CA</state>
+        <zipcode>90210</zipcode>
+    </address>
+    <hobbies>
+        <hobby>Sketching</hobby>
+        <hobby>Cycling</hobby>
+        <hobby>Cooking</hobby>
+    </hobbies>
+</person>

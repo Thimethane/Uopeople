@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programOfStudy>
+    <semester name="Fall 2008">
+        <course type="General Education" goal="8">PHIL 101</course>
+        <course type="General Education" goal="11">ECON 201</course>
+        <course type="Core">MGT 217</course>
+        <course type="Major">CIS 120</course>
+        <course type="Major">CIS 403</course>
+    </semester>
+    <semester name="Spring 2009">
+        <course type="Core">MGT 261</course>
+        <course type="Core">MKTG 325</course>
+        <course type="Major">CIS 220</course>
+        <course type="Major">CIS 407</course>
+        <course type="Major">CIS 490</course>
+    </semester>
+</programOfStudy>
